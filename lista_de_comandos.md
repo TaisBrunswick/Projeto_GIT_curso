@@ -55,3 +55,5 @@ utilizado para tentar recuperar um arquivo em versão anterior em caso de você 
 
 `git clone <SSH>`
 usado para recuperar o repositório local ou para baixar os dados em um novo computador. O comando refaz a pasta, cria a ponte e copia todos os arquivos. A pasta .gitignore deve ter sumido se ela não estivesse no GitHub.
+
+modificndoooo
