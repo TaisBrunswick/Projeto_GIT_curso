@@ -1,0 +1,22 @@
+
+# Dicionário de Conceitos
+
+## Git: 
+Software de versionamento que cria uma linha do tempo que salva diferentes versões do arquivo usando o comando commit. Anota as alterações dos documentos e scripts numa linha.
+
+## GitHub:
+Guarda o backup de todas as linhas do tempo
+
+## Commit:
+Registra em mensagem as alterações realizadas naquela versão do documento. É importante trazer o contexto da alteração como motivação, a forma de resolução, os efeitos causados e as limitações das atualizações feitas.
+
+## Áreas concentuais 
+1. Área de desenvolvimento:
+Pasta de arquivos referentes ao meu projeto, onde o meu repositório Git foi iniciado. O local no meu computador onde o arquivo que estou trabalhando está.
+
+2. Staging area:
+Local onde organizo meus arquivos antes do commit.
+
+3. Repositório local:
+É a minha linha do tempo do Git que gerencia o meu trabalho. É salva como arquivo invisível com extensão ".git"
+ 
