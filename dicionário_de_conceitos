@@ -19,4 +19,14 @@ Local onde organizo meus arquivos antes do commit.
 
 3. Repositório local:
 É a minha linha do tempo do Git que gerencia o meu trabalho. É salva como arquivo invisível com extensão ".git"
+
+
+## Criamos o arquivo README
+Ter tudo o que vc quer que o usuário saiba
+
+## Arquivo .gitignore
+É um uma pasta onde vc lista os arquivos que vc não quer que sejam transferidos do seu computador para o GitHub.
+Você precisa escolher se vai querer transferir ou não esa pasta para o GitHub
  
+
+ LAscou, fiz um commit errado e nao sei oq fazer!!! 
